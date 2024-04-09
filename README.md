@@ -8,4 +8,4 @@ In this project, I built a decimal-to-binary converter using JavaScript. I learn
 ## Access this turtoial to do yourself!
 This tutorial is part of freeCodeCamps Javascript Algorithims and Data Sctructures Course
 
-[Free Code Camp Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+[freeCodeCamp Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
